@@ -1,0 +1,16 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+$primary-color: blue;
+
+p {
+  font-size: x-large;
+  color: $primary-color;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+    font-size: xx-large;
+    color: $primary-color;
+    font-family: 'Dosis', sans-serif;
+  }
